@@ -10,10 +10,10 @@
 NotebookFileLineBreakTest
 NotebookFileLineBreakTest
 NotebookDataPosition[       158,          7]
-NotebookDataLength[     27892,        612]
-NotebookOptionsPosition[     27544,        595]
-NotebookOutlinePosition[     27879,        610]
-CellTagsIndexPosition[     27836,        607]
+NotebookDataLength[     27996,        613]
+NotebookOptionsPosition[     27647,        596]
+NotebookOutlinePosition[     27983,        611]
+CellTagsIndexPosition[     27940,        608]
 WindowFrame->Normal*)
 
 (* Beginning of Notebook Content *)
@@ -25,7 +25,7 @@ Cell[BoxData[{
   ";"}], "\[IndentingNewLine]", 
  RowBox[{
   RowBox[{"theta", " ", "=", " ", 
-   RowBox[{"Import", "[", "\"\<theta.mx\>\"", "]"}]}], 
+   RowBox[{"Import", "[", "\"\<data/theta.mx\>\"", "]"}]}], 
   ";"}], "\[IndentingNewLine]", 
  RowBox[{
   RowBox[{"tmax", " ", "=", " ", "4761.9"}], ";"}], "\[IndentingNewLine]", 
@@ -33,7 +33,7 @@ Cell[BoxData[{
   RowBox[{"snapcount", " ", "=", " ", "101"}], ";"}]}], "Input",
  CellChangeTimes->{{3.734873071320785*^9, 3.734873092335428*^9}, {
   3.734873273833888*^9, 3.734873286210753*^9}, {3.7348733432871733`*^9, 
-  3.734873353815535*^9}}],
+  3.734873353815535*^9}, {3.735034515398418*^9, 3.735034516092573*^9}}],
 
 Cell[CellGroupData[{
 
@@ -589,12 +589,13 @@ dJ03ZvtSPFDjdJxYDciCRdnRmcz+0EDs/eoUv09I9B/w4Q6O
    3.7347734572411747`*^9, 3.734774302392256*^9, 3.7347743728123007`*^9, 
    3.734872910462326*^9, {3.7348731398601093`*^9, 3.734873161701356*^9}, 
    3.734873219284903*^9, {3.73487328000875*^9, 3.734873305560766*^9}, 
-   3.734873359290433*^9, 3.734873443115087*^9, 3.734873475143814*^9},
+   3.734873359290433*^9, 3.734873443115087*^9, 3.734873475143814*^9, {
+   3.7350345117132463`*^9, 3.735034520146963*^9}},
  ExpressionUUID -> "56f9b293-0d0f-48b8-87e6-246b6281f4de"]
 }, Open  ]]
 },
 WindowSize->{902, 791},
-WindowMargins->{{443, Automatic}, {86, Automatic}},
+WindowMargins->{{444, Automatic}, {135, Automatic}},
 FrontEndVersion->"11.0 for Linux x86 (64-bit) (July 28, 2016)",
 StyleDefinitions->"Default.nb"
 ]
@@ -609,10 +610,10 @@ CellTagsIndex->{}
 *)
 (*NotebookFileOutline
 Notebook[{
-Cell[558, 20, 602, 15, 95, "Input"],
+Cell[558, 20, 653, 15, 95, "Input"],
 Cell[CellGroupData[{
-Cell[1185, 39, 3545, 95, 189, "Input"],
-Cell[4733, 136, 22795, 456, 554, "Output"]
+Cell[1236, 39, 3545, 95, 189, "Input"],
+Cell[4784, 136, 22847, 457, 554, "Output"]
 }, Open  ]]
 }
 ]

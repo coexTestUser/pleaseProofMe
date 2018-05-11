@@ -10,10 +10,10 @@
 NotebookFileLineBreakTest
 NotebookFileLineBreakTest
 NotebookDataPosition[       158,          7]
-NotebookDataLength[    241689,       4546]
-NotebookOptionsPosition[    239765,       4507]
-NotebookOutlinePosition[    240125,       4523]
-CellTagsIndexPosition[    240082,       4520]
+NotebookDataLength[    239356,       4506]
+NotebookOptionsPosition[    238334,       4468]
+NotebookOutlinePosition[    238670,       4483]
+CellTagsIndexPosition[    238627,       4480]
 WindowFrame->Normal*)
 
 (* Beginning of Notebook Content *)
@@ -36,8 +36,8 @@ Cell["Loading", "Subsection",
 Cell[BoxData[
  RowBox[{
   RowBox[{"SetDirectory", "[", 
-   RowBox[{"NotebookDirectory", "[", "]"}], "]"}], ";"}]], "Input",ExpressionU\
-UID->"2e24bd54-935b-41b0-8031-e59bc74413f9"],
+   RowBox[{"NotebookDirectory", "[", "]"}], "]"}], ";"}]], "Input",
+ ExpressionUUID -> "2e24bd54-935b-41b0-8031-e59bc74413f9"],
 
 Cell[BoxData[{
  RowBox[{
@@ -60,8 +60,8 @@ Cell[BoxData[{
   3.705046780335887*^9, 3.705046815731353*^9}, {3.705047746246348*^9, 
   3.705047805201193*^9}, {3.705049894314106*^9, 3.7050499626278963`*^9}, {
   3.73469002265765*^9, 3.734690030674594*^9}, {3.735013119725749*^9, 
-  3.735013129225791*^9}},ExpressionUUID->"6e99c6c5-606e-4a73-aae4-\
-45ebd26323f6"],
+  3.735013129225791*^9}},
+ ExpressionUUID -> "6e99c6c5-606e-4a73-aae4-45ebd26323f6"],
 
 Cell[BoxData[{
  RowBox[{
@@ -137,8 +137,8 @@ Cell[BoxData[{
         RowBox[{"[", "1", "]"}], "]"}]}]}], "}"}]}], "]"}], ";"}]}], "Input",
  CellChangeTimes->{{3.7050470941180983`*^9, 3.7050471391648903`*^9}, {
   3.705047171066291*^9, 3.705047178247694*^9}, {3.7050472153398314`*^9, 
-  3.705047322951005*^9}},ExpressionUUID->"23a51071-6756-4eb3-811b-\
-bb312470f9e4"],
+  3.705047322951005*^9}},
+ ExpressionUUID -> "23a51071-6756-4eb3-811b-bb312470f9e4"],
 
 Cell[BoxData[
  RowBox[{
@@ -153,9 +153,8 @@ Cell[BoxData[
   3.705048048715251*^9, 3.705048153485474*^9}, {3.705048369949415*^9, 
   3.705048382822109*^9}, {3.7050484152742567`*^9, 3.705048419641613*^9}, {
   3.7050500148119497`*^9, 3.7050500486216793`*^9}, {3.705050139731263*^9, 
-  3.705050148112522*^9}, {3.735013142220724*^9, 
-  3.7350131436835546`*^9}},ExpressionUUID->"2df89fb6-e387-4ac7-86df-\
-8eb261ed4a8a"],
+  3.705050148112522*^9}, {3.735013142220724*^9, 3.7350131436835546`*^9}},
+ ExpressionUUID -> "2df89fb6-e387-4ac7-86df-8eb261ed4a8a"],
 
 Cell[BoxData[{
  RowBox[{
@@ -214,8 +213,8 @@ Cell[BoxData[{
   3.705047171066291*^9, 3.705047178247694*^9}, {3.7050472153398314`*^9, 
   3.705047322951005*^9}, {3.7050481846653147`*^9, 3.705048252306905*^9}, {
   3.7050501595723667`*^9, 3.705050162333872*^9}, {3.735013147031013*^9, 
-  3.73501315055972*^9}},ExpressionUUID->"bbd95cb9-7c74-4f43-b2b0-\
-ab1022f43553"],
+  3.73501315055972*^9}},
+ ExpressionUUID -> "bbd95cb9-7c74-4f43-b2b0-ab1022f43553"],
 
 Cell[BoxData[{
  RowBox[{
@@ -250,8 +249,8 @@ Cell[BoxData[{
   ";"}]}], "Input",
  CellChangeTimes->{{3.735011953873878*^9, 3.735012191581037*^9}, {
   3.7350122418674107`*^9, 3.735012328891889*^9}, {3.735013387430019*^9, 
-  3.735013417568059*^9}},ExpressionUUID->"6191cee0-4808-4da3-8da4-\
-318c381877d8"]
+  3.735013417568059*^9}},
+ ExpressionUUID -> "6191cee0-4808-4da3-8da4-318c381877d8"]
 }, Open  ]],
 
 Cell[CellGroupData[{
@@ -504,9 +503,8 @@ Cell[BoxData[{
   3.705049377926998*^9}, {3.734689519985634*^9, 3.734689555014531*^9}, {
   3.7346896138385143`*^9, 3.7346896461302032`*^9}, {3.73501165909305*^9, 
   3.735011788510601*^9}, {3.735012494917297*^9, 3.735012670309437*^9}, {
-  3.7350132296754513`*^9, 
-  3.735013368390669*^9}},ExpressionUUID->"bb21abb0-ca45-4646-850f-\
-a5d0fa49e5a5"],
+  3.7350132296754513`*^9, 3.735013368390669*^9}},
+ ExpressionUUID -> "bb21abb0-ca45-4646-850f-a5d0fa49e5a5"],
 
 Cell[BoxData[
  GraphicsBox[{{}, {InsetBox[
@@ -963,25 +961,21 @@ Qt5No48GnK462SKvGPWbkXVuT/fyzjZ09cChMAxOXSqNXf2bsZ+LTwax0Zb3
 f/2+7H/9Psp//b6nf/0+hX/9vOJ//TzAf/28nX/9e/Z//Xuxf30/9r++3+lf
 X0/8//q+7v+rvmL2+P8HG6NoYg==
           "]], {
-        DisplayFunction -> Identity, AspectRatio -> 1, 
-         AxesOrigin -> {Automatic, Automatic}, DisplayFunction :> Identity, 
-         Frame -> True, FrameLabel -> {{
+        DisplayFunction -> Identity, AspectRatio -> 1, DisplayFunction :> 
+         Identity, Frame -> True, FrameLabel -> {{
             FormBox[
             "\"\\!\\(\\*SubscriptBox[\\(\[CurlyPhi]\\), \\(p\\)]\\)\"", 
              TraditionalForm], None}, {
             FormBox["\"\[Alpha]\"", TraditionalForm], None}}, 
          FrameTicks -> {{Automatic, Automatic}, {Automatic, Automatic}}, 
-         GridLines -> {None, None}, GridLinesStyle -> Directive[
+         GridLinesStyle -> Directive[
            GrayLevel[0.5, 0.4]], 
          Method -> {
           "DefaultBoundaryStyle" -> Automatic, "DefaultColorFunction" -> 
-           "M10DefaultDensityGradient", "GridLinesInFront" -> True}, 
-         PlotRange -> {{0., 6.25}, {1.650118449976771, 4.950355349930312}}, 
-         PlotRangeClipping -> True, PlotRangePadding -> {{
-            Scaled[0.02], 
-            Scaled[0.02]}, {
-            Scaled[0.02], 
-            Scaled[0.02]}}, Ticks -> {Automatic, Automatic}}],FormBox[
+           "M10DefaultDensityGradient"}, PlotRange -> {All, All}, 
+         PlotRangeClipping -> True, 
+         PlotRangePadding -> {Automatic, Automatic}, 
+         Ticks -> {Automatic, Automatic}}],FormBox[
         FormBox[
          TemplateBox[{
            FormBox[
@@ -1168,48 +1162,48 @@ GlYQ1htkAvjz/76FBbV90WY0/B/uJpBU
                     StyleBox[{
                     InsetBox[
                     FormBox["0", TraditionalForm], 
-                    Offset[{7., 0.}, {7.5, -112.5}], {-1, 0.}, Automatic, {1, 
-                    0}], 
+                    Offset[{7., 0.}, {7.5, -112.5}], 
+                    ImageScaled[{0, 0.5}], Automatic, {1, 0}], 
                     InsetBox[
                     FormBox[
                     TagBox[
                     InterpretationBox["\"0.2\"", 0.2, AutoDelete -> True], 
                     NumberForm[#, {
                     DirectedInfinity[1], 1}]& ], TraditionalForm], 
-                    Offset[{7., 0.}, {7.5, -67.5}], {-1, 0.}, Automatic, {1, 
-                    0}], 
+                    Offset[{7., 0.}, {7.5, -67.5}], 
+                    ImageScaled[{0, 0.5}], Automatic, {1, 0}], 
                     InsetBox[
                     FormBox[
                     TagBox[
                     InterpretationBox["\"0.4\"", 0.4, AutoDelete -> True], 
                     NumberForm[#, {
                     DirectedInfinity[1], 1}]& ], TraditionalForm], 
-                    Offset[{7., 0.}, {7.5, -22.5}], {-1, 0.}, Automatic, {1, 
-                    0}], 
+                    Offset[{7., 0.}, {7.5, -22.5}], 
+                    ImageScaled[{0, 0.5}], Automatic, {1, 0}], 
                     InsetBox[
                     FormBox[
                     TagBox[
                     InterpretationBox["\"0.6\"", 0.6, AutoDelete -> True], 
                     NumberForm[#, {
                     DirectedInfinity[1], 1}]& ], TraditionalForm], 
-                    Offset[{7., 0.}, {7.5, 22.5}], {-1, 0.}, Automatic, {1, 
-                    0}], 
+                    Offset[{7., 0.}, {7.5, 22.5}], 
+                    ImageScaled[{0, 0.5}], Automatic, {1, 0}], 
                     InsetBox[
                     FormBox[
                     TagBox[
                     InterpretationBox["\"0.8\"", 0.8, AutoDelete -> True], 
                     NumberForm[#, {
                     DirectedInfinity[1], 1}]& ], TraditionalForm], 
-                    Offset[{7., 0.}, {7.5, 67.5}], {-1, 0.}, Automatic, {1, 
-                    0}], 
+                    Offset[{7., 0.}, {7.5, 67.5}], 
+                    ImageScaled[{0, 0.5}], Automatic, {1, 0}], 
                     InsetBox[
                     FormBox[
                     TagBox[
                     InterpretationBox["\"1.0\"", 1., AutoDelete -> True], 
                     NumberForm[#, {
                     DirectedInfinity[1], 1}]& ], TraditionalForm], 
-                    Offset[{7., 0.}, {7.5, 112.5}], {-1, 0.}, Automatic, {1, 
-                    0}]}, 
+                    Offset[{7., 0.}, {7.5, 112.5}], 
+                    ImageScaled[{0, 0.5}], Automatic, {1, 0}]}, 
                     Directive[
                     AbsoluteThickness[0.2], 
                     GrayLevel[0.4]], {
@@ -1269,9 +1263,6 @@ GlYQ1htkAvjz/76FBbV90WY0/B/uJpBU
                 "LegendLabel", "\[Rule]", 
                  "\"\\!\\(\\*SubscriptBox[\\(P\\), \\(+\\)]\\)\""}], ",", 
                RowBox[{"LegendLayout", "\[Rule]", "\"Column\""}], ",", 
-               RowBox[{"ScalingFunctions", "\[Rule]", 
-                 RowBox[{"{", 
-                   RowBox[{"Identity", ",", "Identity"}], "}"}]}], ",", 
                RowBox[{"Charting`TickSide", "\[Rule]", "Right"}], ",", 
                RowBox[{"ColorFunctionScaling", "\[Rule]", "False"}]}], 
              "]"}]& )], TraditionalForm], TraditionalForm]},
@@ -1749,25 +1740,21 @@ dA0ONsjxZoBu1EZPztP9i7qFtYOvcNwAWFASohkjwyCpfPXcttqRRX1Is67s
 2BIKmAb4zYnszYNxg2Uhl3fSFvV//b7sf/0+yn/9vqd//T6Ff/17xf/69wD/
 9e/t/Ovvs//r74v96//H/tf/7/Svnyf+r+7X/a/yFavH/z+WHgcl
           "]], {
-        DisplayFunction -> Identity, AspectRatio -> 1, 
-         AxesOrigin -> {Automatic, Automatic}, DisplayFunction :> Identity, 
-         Frame -> True, FrameLabel -> {{
+        DisplayFunction -> Identity, AspectRatio -> 1, DisplayFunction :> 
+         Identity, Frame -> True, FrameLabel -> {{
             FormBox[
             "\"\\!\\(\\*SubscriptBox[\\(\[CurlyPhi]\\), \\(p\\)]\\)\"", 
              TraditionalForm], None}, {
             FormBox["\"\[Alpha]\"", TraditionalForm], None}}, 
          FrameTicks -> {{Automatic, Automatic}, {Automatic, Automatic}}, 
-         GridLines -> {None, None}, GridLinesStyle -> Directive[
+         GridLinesStyle -> Directive[
            GrayLevel[0.5, 0.4]], 
          Method -> {
           "DefaultBoundaryStyle" -> Automatic, "DefaultColorFunction" -> 
-           "M10DefaultDensityGradient", "GridLinesInFront" -> True}, 
-         PlotRange -> {{0., 6.25}, {1.650118449976771, 4.950355349930312}}, 
-         PlotRangeClipping -> True, PlotRangePadding -> {{
-            Scaled[0.02], 
-            Scaled[0.02]}, {
-            Scaled[0.02], 
-            Scaled[0.02]}}, Ticks -> {Automatic, Automatic}}],FormBox[
+           "M10DefaultDensityGradient"}, PlotRange -> {All, All}, 
+         PlotRangeClipping -> True, 
+         PlotRangePadding -> {Automatic, Automatic}, 
+         Ticks -> {Automatic, Automatic}}],FormBox[
         FormBox[
          TemplateBox[{
            FormBox[
@@ -1954,48 +1941,48 @@ GlYQ1htkAvjz/76FBbV90WY0/B/uJpBU
                     StyleBox[{
                     InsetBox[
                     FormBox["0", TraditionalForm], 
-                    Offset[{7., 0.}, {7.5, -112.5}], {-1, 0.}, Automatic, {1, 
-                    0}], 
+                    Offset[{7., 0.}, {7.5, -112.5}], 
+                    ImageScaled[{0, 0.5}], Automatic, {1, 0}], 
                     InsetBox[
                     FormBox[
                     TagBox[
                     InterpretationBox["\"0.2\"", 0.2, AutoDelete -> True], 
                     NumberForm[#, {
                     DirectedInfinity[1], 1}]& ], TraditionalForm], 
-                    Offset[{7., 0.}, {7.5, -67.5}], {-1, 0.}, Automatic, {1, 
-                    0}], 
+                    Offset[{7., 0.}, {7.5, -67.5}], 
+                    ImageScaled[{0, 0.5}], Automatic, {1, 0}], 
                     InsetBox[
                     FormBox[
                     TagBox[
                     InterpretationBox["\"0.4\"", 0.4, AutoDelete -> True], 
                     NumberForm[#, {
                     DirectedInfinity[1], 1}]& ], TraditionalForm], 
-                    Offset[{7., 0.}, {7.5, -22.5}], {-1, 0.}, Automatic, {1, 
-                    0}], 
+                    Offset[{7., 0.}, {7.5, -22.5}], 
+                    ImageScaled[{0, 0.5}], Automatic, {1, 0}], 
                     InsetBox[
                     FormBox[
                     TagBox[
                     InterpretationBox["\"0.6\"", 0.6, AutoDelete -> True], 
                     NumberForm[#, {
                     DirectedInfinity[1], 1}]& ], TraditionalForm], 
-                    Offset[{7., 0.}, {7.5, 22.5}], {-1, 0.}, Automatic, {1, 
-                    0}], 
+                    Offset[{7., 0.}, {7.5, 22.5}], 
+                    ImageScaled[{0, 0.5}], Automatic, {1, 0}], 
                     InsetBox[
                     FormBox[
                     TagBox[
                     InterpretationBox["\"0.8\"", 0.8, AutoDelete -> True], 
                     NumberForm[#, {
                     DirectedInfinity[1], 1}]& ], TraditionalForm], 
-                    Offset[{7., 0.}, {7.5, 67.5}], {-1, 0.}, Automatic, {1, 
-                    0}], 
+                    Offset[{7., 0.}, {7.5, 67.5}], 
+                    ImageScaled[{0, 0.5}], Automatic, {1, 0}], 
                     InsetBox[
                     FormBox[
                     TagBox[
                     InterpretationBox["\"1.0\"", 1., AutoDelete -> True], 
                     NumberForm[#, {
                     DirectedInfinity[1], 1}]& ], TraditionalForm], 
-                    Offset[{7., 0.}, {7.5, 112.5}], {-1, 0.}, Automatic, {1, 
-                    0}]}, 
+                    Offset[{7., 0.}, {7.5, 112.5}], 
+                    ImageScaled[{0, 0.5}], Automatic, {1, 0}]}, 
                     Directive[
                     AbsoluteThickness[0.2], 
                     GrayLevel[0.4]], {
@@ -2055,9 +2042,6 @@ GlYQ1htkAvjz/76FBbV90WY0/B/uJpBU
                 "LegendLabel", "\[Rule]", 
                  "\"\\!\\(\\*SubscriptBox[\\(P\\), \\(-\\)]\\)\""}], ",", 
                RowBox[{"LegendLayout", "\[Rule]", "\"Column\""}], ",", 
-               RowBox[{"ScalingFunctions", "\[Rule]", 
-                 RowBox[{"{", 
-                   RowBox[{"Identity", ",", "Identity"}], "}"}]}], ",", 
                RowBox[{"Charting`TickSide", "\[Rule]", "Right"}], ",", 
                RowBox[{"ColorFunctionScaling", "\[Rule]", "False"}]}], 
              "]"}]& )], TraditionalForm], TraditionalForm]},
@@ -2088,8 +2072,8 @@ GlYQ1htkAvjz/76FBbV90WY0/B/uJpBU
  CellChangeTimes->{3.735011702634432*^9, 3.735011750231318*^9, 
   3.735011790035527*^9, 3.735012504542645*^9, 3.735012672427593*^9, 
   3.735013013538134*^9, 3.7350131908753967`*^9, 3.73501325871336*^9, 
-  3.735013372192129*^9},ExpressionUUID->"58b759f1-2eec-44ea-91af-\
-d1b4cabe8f71"],
+  3.735013372192129*^9, 3.7350348208414907`*^9},
+ ExpressionUUID -> "58b759f1-2eec-44ea-91af-d1b4cabe8f71"],
 
 Cell[BoxData[
  GraphicsBox[{{}, {InsetBox[
@@ -2547,25 +2531,21 @@ Jq7t7xfrMISvBIh7HunW7UOFqK3JG2tr1vaHph1vlBLIMKjkJlu7TIPWs8Mu
 V0lr+79+Xva/fh7lv37e079+nsK/vl/xv74f4L++386//j37v/692L/+Pva/
 /r7Tv/488f/ret3/V79i9vj/Aw+LGrE=
           "]], {
-        DisplayFunction -> Identity, AspectRatio -> 1, 
-         AxesOrigin -> {Automatic, Automatic}, DisplayFunction :> Identity, 
-         Frame -> True, FrameLabel -> {{
+        DisplayFunction -> Identity, AspectRatio -> 1, DisplayFunction :> 
+         Identity, Frame -> True, FrameLabel -> {{
             FormBox[
             "\"\\!\\(\\*SubscriptBox[\\(\[CurlyPhi]\\), \\(p\\)]\\)\"", 
              TraditionalForm], None}, {
             FormBox["\"\[Alpha]\"", TraditionalForm], None}}, 
          FrameTicks -> {{Automatic, Automatic}, {Automatic, Automatic}}, 
-         GridLines -> {None, None}, GridLinesStyle -> Directive[
+         GridLinesStyle -> Directive[
            GrayLevel[0.5, 0.4]], 
          Method -> {
           "DefaultBoundaryStyle" -> Automatic, "DefaultColorFunction" -> 
-           "M10DefaultDensityGradient", "GridLinesInFront" -> True}, 
-         PlotRange -> {{0., 6.25}, {1.650118449976771, 4.950355349930312}}, 
-         PlotRangeClipping -> True, PlotRangePadding -> {{
-            Scaled[0.02], 
-            Scaled[0.02]}, {
-            Scaled[0.02], 
-            Scaled[0.02]}}, Ticks -> {Automatic, Automatic}}],FormBox[
+           "M10DefaultDensityGradient"}, PlotRange -> {All, All}, 
+         PlotRangeClipping -> True, 
+         PlotRangePadding -> {Automatic, Automatic}, 
+         Ticks -> {Automatic, Automatic}}],FormBox[
         FormBox[
          TemplateBox[{
            FormBox[
@@ -2752,48 +2732,48 @@ GlYQ1htkAvjz/76FBbV90WY0/B/uJpBU
                     StyleBox[{
                     InsetBox[
                     FormBox["0", TraditionalForm], 
-                    Offset[{7., 0.}, {7.5, -112.5}], {-1, 0.}, Automatic, {1, 
-                    0}], 
+                    Offset[{7., 0.}, {7.5, -112.5}], 
+                    ImageScaled[{0, 0.5}], Automatic, {1, 0}], 
                     InsetBox[
                     FormBox[
                     TagBox[
                     InterpretationBox["\"0.2\"", 0.2, AutoDelete -> True], 
                     NumberForm[#, {
                     DirectedInfinity[1], 1}]& ], TraditionalForm], 
-                    Offset[{7., 0.}, {7.5, -67.5}], {-1, 0.}, Automatic, {1, 
-                    0}], 
+                    Offset[{7., 0.}, {7.5, -67.5}], 
+                    ImageScaled[{0, 0.5}], Automatic, {1, 0}], 
                     InsetBox[
                     FormBox[
                     TagBox[
                     InterpretationBox["\"0.4\"", 0.4, AutoDelete -> True], 
                     NumberForm[#, {
                     DirectedInfinity[1], 1}]& ], TraditionalForm], 
-                    Offset[{7., 0.}, {7.5, -22.5}], {-1, 0.}, Automatic, {1, 
-                    0}], 
+                    Offset[{7., 0.}, {7.5, -22.5}], 
+                    ImageScaled[{0, 0.5}], Automatic, {1, 0}], 
                     InsetBox[
                     FormBox[
                     TagBox[
                     InterpretationBox["\"0.6\"", 0.6, AutoDelete -> True], 
                     NumberForm[#, {
                     DirectedInfinity[1], 1}]& ], TraditionalForm], 
-                    Offset[{7., 0.}, {7.5, 22.5}], {-1, 0.}, Automatic, {1, 
-                    0}], 
+                    Offset[{7., 0.}, {7.5, 22.5}], 
+                    ImageScaled[{0, 0.5}], Automatic, {1, 0}], 
                     InsetBox[
                     FormBox[
                     TagBox[
                     InterpretationBox["\"0.8\"", 0.8, AutoDelete -> True], 
                     NumberForm[#, {
                     DirectedInfinity[1], 1}]& ], TraditionalForm], 
-                    Offset[{7., 0.}, {7.5, 67.5}], {-1, 0.}, Automatic, {1, 
-                    0}], 
+                    Offset[{7., 0.}, {7.5, 67.5}], 
+                    ImageScaled[{0, 0.5}], Automatic, {1, 0}], 
                     InsetBox[
                     FormBox[
                     TagBox[
                     InterpretationBox["\"1.0\"", 1., AutoDelete -> True], 
                     NumberForm[#, {
                     DirectedInfinity[1], 1}]& ], TraditionalForm], 
-                    Offset[{7., 0.}, {7.5, 112.5}], {-1, 0.}, Automatic, {1, 
-                    0}]}, 
+                    Offset[{7., 0.}, {7.5, 112.5}], 
+                    ImageScaled[{0, 0.5}], Automatic, {1, 0}]}, 
                     Directive[
                     AbsoluteThickness[0.2], 
                     GrayLevel[0.4]], {
@@ -2853,9 +2833,6 @@ GlYQ1htkAvjz/76FBbV90WY0/B/uJpBU
                 "LegendLabel", "\[Rule]", 
                  "\"\\!\\(\\*SubscriptBox[\\(N\\), \\(+\\)]\\)\""}], ",", 
                RowBox[{"LegendLayout", "\[Rule]", "\"Column\""}], ",", 
-               RowBox[{"ScalingFunctions", "\[Rule]", 
-                 RowBox[{"{", 
-                   RowBox[{"Identity", ",", "Identity"}], "}"}]}], ",", 
                RowBox[{"Charting`TickSide", "\[Rule]", "Right"}], ",", 
                RowBox[{"ColorFunctionScaling", "\[Rule]", "False"}]}], 
              "]"}]& )], TraditionalForm], TraditionalForm]},
@@ -3335,25 +3312,21 @@ foCeMXcSezVlRZfx1AsMHKOAT3NWu0YYHZJ+1Ogfrmeu6OEKjV2JckSYZTRn
 WpbWQ7OlL59FGnVF/6/nZf/X8yj/63lP//U8hf/6ecX/9fMA/+vn7fzX97P/
 1/eL/dfXY//X1zv91/8n/l/9Xvd/VV+x+vn/D3h13eE=
           "]], {
-        DisplayFunction -> Identity, AspectRatio -> 1, 
-         AxesOrigin -> {Automatic, Automatic}, DisplayFunction :> Identity, 
-         Frame -> True, FrameLabel -> {{
+        DisplayFunction -> Identity, AspectRatio -> 1, DisplayFunction :> 
+         Identity, Frame -> True, FrameLabel -> {{
             FormBox[
             "\"\\!\\(\\*SubscriptBox[\\(\[CurlyPhi]\\), \\(p\\)]\\)\"", 
              TraditionalForm], None}, {
             FormBox["\"\[Alpha]\"", TraditionalForm], None}}, 
          FrameTicks -> {{Automatic, Automatic}, {Automatic, Automatic}}, 
-         GridLines -> {None, None}, GridLinesStyle -> Directive[
+         GridLinesStyle -> Directive[
            GrayLevel[0.5, 0.4]], 
          Method -> {
           "DefaultBoundaryStyle" -> Automatic, "DefaultColorFunction" -> 
-           "M10DefaultDensityGradient", "GridLinesInFront" -> True}, 
-         PlotRange -> {{0., 6.25}, {1.650118449976771, 4.950355349930312}}, 
-         PlotRangeClipping -> True, PlotRangePadding -> {{
-            Scaled[0.02], 
-            Scaled[0.02]}, {
-            Scaled[0.02], 
-            Scaled[0.02]}}, Ticks -> {Automatic, Automatic}}],FormBox[
+           "M10DefaultDensityGradient"}, PlotRange -> {All, All}, 
+         PlotRangeClipping -> True, 
+         PlotRangePadding -> {Automatic, Automatic}, 
+         Ticks -> {Automatic, Automatic}}],FormBox[
         FormBox[
          TemplateBox[{
            FormBox[
@@ -3540,48 +3513,48 @@ GlYQ1htkAvjz/76FBbV90WY0/B/uJpBU
                     StyleBox[{
                     InsetBox[
                     FormBox["0", TraditionalForm], 
-                    Offset[{7., 0.}, {7.5, -112.5}], {-1, 0.}, Automatic, {1, 
-                    0}], 
+                    Offset[{7., 0.}, {7.5, -112.5}], 
+                    ImageScaled[{0, 0.5}], Automatic, {1, 0}], 
                     InsetBox[
                     FormBox[
                     TagBox[
                     InterpretationBox["\"0.2\"", 0.2, AutoDelete -> True], 
                     NumberForm[#, {
                     DirectedInfinity[1], 1}]& ], TraditionalForm], 
-                    Offset[{7., 0.}, {7.5, -67.5}], {-1, 0.}, Automatic, {1, 
-                    0}], 
+                    Offset[{7., 0.}, {7.5, -67.5}], 
+                    ImageScaled[{0, 0.5}], Automatic, {1, 0}], 
                     InsetBox[
                     FormBox[
                     TagBox[
                     InterpretationBox["\"0.4\"", 0.4, AutoDelete -> True], 
                     NumberForm[#, {
                     DirectedInfinity[1], 1}]& ], TraditionalForm], 
-                    Offset[{7., 0.}, {7.5, -22.5}], {-1, 0.}, Automatic, {1, 
-                    0}], 
+                    Offset[{7., 0.}, {7.5, -22.5}], 
+                    ImageScaled[{0, 0.5}], Automatic, {1, 0}], 
                     InsetBox[
                     FormBox[
                     TagBox[
                     InterpretationBox["\"0.6\"", 0.6, AutoDelete -> True], 
                     NumberForm[#, {
                     DirectedInfinity[1], 1}]& ], TraditionalForm], 
-                    Offset[{7., 0.}, {7.5, 22.5}], {-1, 0.}, Automatic, {1, 
-                    0}], 
+                    Offset[{7., 0.}, {7.5, 22.5}], 
+                    ImageScaled[{0, 0.5}], Automatic, {1, 0}], 
                     InsetBox[
                     FormBox[
                     TagBox[
                     InterpretationBox["\"0.8\"", 0.8, AutoDelete -> True], 
                     NumberForm[#, {
                     DirectedInfinity[1], 1}]& ], TraditionalForm], 
-                    Offset[{7., 0.}, {7.5, 67.5}], {-1, 0.}, Automatic, {1, 
-                    0}], 
+                    Offset[{7., 0.}, {7.5, 67.5}], 
+                    ImageScaled[{0, 0.5}], Automatic, {1, 0}], 
                     InsetBox[
                     FormBox[
                     TagBox[
                     InterpretationBox["\"1.0\"", 1., AutoDelete -> True], 
                     NumberForm[#, {
                     DirectedInfinity[1], 1}]& ], TraditionalForm], 
-                    Offset[{7., 0.}, {7.5, 112.5}], {-1, 0.}, Automatic, {1, 
-                    0}]}, 
+                    Offset[{7., 0.}, {7.5, 112.5}], 
+                    ImageScaled[{0, 0.5}], Automatic, {1, 0}]}, 
                     Directive[
                     AbsoluteThickness[0.2], 
                     GrayLevel[0.4]], {
@@ -3641,9 +3614,6 @@ GlYQ1htkAvjz/76FBbV90WY0/B/uJpBU
                 "LegendLabel", "\[Rule]", 
                  "\"\\!\\(\\*SubscriptBox[\\(N\\), \\(-\\)]\\)\""}], ",", 
                RowBox[{"LegendLayout", "\[Rule]", "\"Column\""}], ",", 
-               RowBox[{"ScalingFunctions", "\[Rule]", 
-                 RowBox[{"{", 
-                   RowBox[{"Identity", ",", "Identity"}], "}"}]}], ",", 
                RowBox[{"Charting`TickSide", "\[Rule]", "Right"}], ",", 
                RowBox[{"ColorFunctionScaling", "\[Rule]", "False"}]}], 
              "]"}]& )], TraditionalForm], TraditionalForm]},
@@ -3674,7 +3644,8 @@ GlYQ1htkAvjz/76FBbV90WY0/B/uJpBU
  CellChangeTimes->{3.735011702634432*^9, 3.735011750231318*^9, 
   3.735011790035527*^9, 3.735012504542645*^9, 3.735012672427593*^9, 
   3.735013013538134*^9, 3.7350131908753967`*^9, 3.73501325871336*^9, 
-  3.73501337237316*^9},ExpressionUUID->"7c97cefc-efee-4194-8181-bd8a4f752c82"]
+  3.735013372192129*^9, 3.735034821217424*^9},
+ ExpressionUUID -> "58b759f1-2eec-44ea-91af-d1b4cabe8f71"]
 }, Open  ]],
 
 Cell["hysteresis", "Text",
@@ -3765,9 +3736,8 @@ Cell[BoxData[{
    3.73467649699535*^9}, {3.73467666588419*^9, 3.7346766852853107`*^9}, {
    3.734676914319833*^9, 3.734676915925209*^9}, {3.73501240538549*^9, 
    3.735012482303681*^9}, {3.735013439275462*^9, 3.735013441155306*^9}, {
-   3.735013546992502*^9, 
-   3.735013578371319*^9}},ExpressionUUID->"9a49c777-c2ff-4487-b926-\
-73992320c30b"],
+   3.735013546992502*^9, 3.735013578371319*^9}},
+ ExpressionUUID -> "9a49c777-c2ff-4487-b926-73992320c30b"],
 
 Cell[BoxData[
  TemplateBox[{GraphicsBox[
@@ -4167,28 +4137,22 @@ On4pTdLpfDYF6hS9bFxH6BBwkpV/qvr3zm3z/6f9T78v+0+/j/JPv+/pT79P
 4U//XvGf/j3AP/17O3/6efY//bzYn74f+0/f7/Sn/5/4b31f92/1V5yO/x8h
 ZOb/
       "]], {
-    DisplayFunction -> Identity, AspectRatio -> 1, 
-     AxesOrigin -> {Automatic, Automatic}, DisplayFunction :> Identity, Frame -> 
-     True, FrameLabel -> {{
+    DisplayFunction -> Identity, AspectRatio -> 1, DisplayFunction :> 
+     Identity, Frame -> True, FrameLabel -> {{
         FormBox[
         "\"\\!\\(\\*SubscriptBox[\\(\[CurlyPhi]\\), \\(p\\)]\\)\"", 
          TraditionalForm], None}, {
         FormBox["\"\[Alpha]\"", TraditionalForm], None}}, 
      FrameTicks -> {{Automatic, Automatic}, {Automatic, Automatic}}, 
-     GridLines -> {None, None}, GridLinesStyle -> Directive[
+     GridLinesStyle -> Directive[
        GrayLevel[0.5, 0.4]], 
      Method -> {
       "DefaultBoundaryStyle" -> Automatic, "DefaultColorFunction" -> 
-       "M10DefaultDensityGradient", "GridLinesInFront" -> True}, PlotLabel -> 
-     FormBox[
+       "M10DefaultDensityGradient"}, PlotLabel -> FormBox[
        StyleBox["\"Coexistence Region\"", 14, StripOnInput -> False], 
-       TraditionalForm], 
-     PlotRange -> {{0., 6.25}, {1.650118449976771, 4.950355349930312}}, 
-     PlotRangeClipping -> True, PlotRangePadding -> {{
-        Scaled[0.02], 
-        Scaled[0.02]}, {
-        Scaled[0.02], 
-        Scaled[0.02]}}, Ticks -> {Automatic, Automatic}}],FormBox[
+       TraditionalForm], PlotRange -> {All, All}, PlotRangeClipping -> True, 
+     PlotRangePadding -> {Automatic, Automatic}, 
+     Ticks -> {Automatic, Automatic}}],FormBox[
     FormBox[
      TemplateBox[{
        FormBox[
@@ -4374,48 +4338,48 @@ GlYQ1htkAvjz/76FBbV90WY0/B/uJpBU
                     StyleBox[{
                     InsetBox[
                     FormBox["0", TraditionalForm], 
-                    Offset[{7., 0.}, {7.5, -112.5}], {-1, 0.}, Automatic, {1, 
-                    0}], 
+                    Offset[{7., 0.}, {7.5, -112.5}], 
+                    ImageScaled[{0, 0.5}], Automatic, {1, 0}], 
                     InsetBox[
                     FormBox[
                     TagBox[
                     InterpretationBox["\"0.2\"", 0.2, AutoDelete -> True], 
                     NumberForm[#, {
                     DirectedInfinity[1], 1}]& ], TraditionalForm], 
-                    Offset[{7., 0.}, {7.5, -67.5}], {-1, 0.}, Automatic, {1, 
-                    0}], 
+                    Offset[{7., 0.}, {7.5, -67.5}], 
+                    ImageScaled[{0, 0.5}], Automatic, {1, 0}], 
                     InsetBox[
                     FormBox[
                     TagBox[
                     InterpretationBox["\"0.4\"", 0.4, AutoDelete -> True], 
                     NumberForm[#, {
                     DirectedInfinity[1], 1}]& ], TraditionalForm], 
-                    Offset[{7., 0.}, {7.5, -22.5}], {-1, 0.}, Automatic, {1, 
-                    0}], 
+                    Offset[{7., 0.}, {7.5, -22.5}], 
+                    ImageScaled[{0, 0.5}], Automatic, {1, 0}], 
                     InsetBox[
                     FormBox[
                     TagBox[
                     InterpretationBox["\"0.6\"", 0.6, AutoDelete -> True], 
                     NumberForm[#, {
                     DirectedInfinity[1], 1}]& ], TraditionalForm], 
-                    Offset[{7., 0.}, {7.5, 22.5}], {-1, 0.}, Automatic, {1, 
-                    0}], 
+                    Offset[{7., 0.}, {7.5, 22.5}], 
+                    ImageScaled[{0, 0.5}], Automatic, {1, 0}], 
                     InsetBox[
                     FormBox[
                     TagBox[
                     InterpretationBox["\"0.8\"", 0.8, AutoDelete -> True], 
                     NumberForm[#, {
                     DirectedInfinity[1], 1}]& ], TraditionalForm], 
-                    Offset[{7., 0.}, {7.5, 67.5}], {-1, 0.}, Automatic, {1, 
-                    0}], 
+                    Offset[{7., 0.}, {7.5, 67.5}], 
+                    ImageScaled[{0, 0.5}], Automatic, {1, 0}], 
                     InsetBox[
                     FormBox[
                     TagBox[
                     InterpretationBox["\"1.0\"", 1., AutoDelete -> True], 
                     NumberForm[#, {
                     DirectedInfinity[1], 1}]& ], TraditionalForm], 
-                    Offset[{7., 0.}, {7.5, 112.5}], {-1, 0.}, Automatic, {1, 
-                    0}]}, 
+                    Offset[{7., 0.}, {7.5, 112.5}], 
+                    ImageScaled[{0, 0.5}], Automatic, {1, 0}]}, 
                     Directive[
                     AbsoluteThickness[0.2], 
                     GrayLevel[0.4]], {
@@ -4474,9 +4438,6 @@ GlYQ1htkAvjz/76FBbV90WY0/B/uJpBU
              RowBox[{"{", "}"}]}], ",", 
            RowBox[{"LegendLabel", "\[Rule]", "\"\[Delta]P\""}], ",", 
            RowBox[{"LegendLayout", "\[Rule]", "\"Column\""}], ",", 
-           RowBox[{"ScalingFunctions", "\[Rule]", 
-             RowBox[{"{", 
-               RowBox[{"Identity", ",", "Identity"}], "}"}]}], ",", 
            RowBox[{"Charting`TickSide", "\[Rule]", "Right"}], ",", 
            RowBox[{"ColorFunctionScaling", "\[Rule]", "False"}]}], "]"}]& )], 
      TraditionalForm], TraditionalForm]},
@@ -4498,17 +4459,16 @@ GlYQ1htkAvjz/76FBbV90WY0/B/uJpBU
        RowBox[{"Placed", "[", 
          RowBox[{#2, ",", "After"}], "]"}]}], "]"}]& )]], "Output",
  CellChangeTimes->{
-  3.7350134419948797`*^9, {3.735013550526738*^9, 
-   3.735013579348076*^9}},ExpressionUUID->"aa9cfe62-e3df-4118-aece-\
-a5a395e38a19"]
+  3.7350134419948797`*^9, {3.735013550526738*^9, 3.735013579348076*^9}, 
+   3.735034821637272*^9},
+ ExpressionUUID -> "aa9cfe62-e3df-4118-aece-a5a395e38a19"]
 }, Open  ]]
 }, Open  ]]
 }, Open  ]]
 },
 WindowSize->{808, 911},
-WindowMargins->{{Automatic, 770}, {Automatic, 74}},
-FrontEndVersion->"11.2 for Mac OS X x86 (32-bit, 64-bit Kernel) (September \
-10, 2017)",
+WindowMargins->{{470, Automatic}, {118, Automatic}},
+FrontEndVersion->"11.0 for Linux x86 (64-bit) (July 28, 2016)",
 StyleDefinitions->"Default.nb"
 ]
 (* End of Notebook Content *)
@@ -4523,28 +4483,28 @@ CellTagsIndex->{}
 (*NotebookFileOutline
 Notebook[{
 Cell[CellGroupData[{
-Cell[580, 22, 208, 4, 67, "Section",ExpressionUUID->"8c31879d-3f26-4469-b4e3-fdb79449d64d"],
+Cell[580, 22, 208, 4, 65, "Section"],
 Cell[CellGroupData[{
-Cell[813, 30, 156, 3, 54, "Subsection",ExpressionUUID->"fb7ed608-60ef-4f02-b3b5-930fe3040fea"],
-Cell[972, 35, 180, 4, 30, "Input",ExpressionUUID->"2e24bd54-935b-41b0-8031-e59bc74413f9"],
-Cell[1155, 41, 951, 22, 94, "Input",ExpressionUUID->"6e99c6c5-606e-4a73-aae4-45ebd26323f6"],
-Cell[2109, 65, 2341, 75, 115, "Input",ExpressionUUID->"23a51071-6756-4eb3-811b-bb312470f9e4"],
-Cell[4453, 142, 678, 15, 30, "Input",ExpressionUUID->"2df89fb6-e387-4ac7-86df-8eb261ed4a8a"],
-Cell[5134, 159, 1807, 58, 94, "Input",ExpressionUUID->"bbd95cb9-7c74-4f43-b2b0-ab1022f43553"],
-Cell[6944, 219, 1198, 34, 115, "Input",ExpressionUUID->"6191cee0-4808-4da3-8da4-318c381877d8"]
+Cell[813, 30, 156, 3, 45, "Subsection"],
+Cell[972, 35, 182, 4, 35, "Input"],
+Cell[1157, 41, 953, 22, 103, "Input"],
+Cell[2113, 65, 2343, 75, 203, "Input"],
+Cell[4459, 142, 677, 14, 32, "Input"],
+Cell[5139, 158, 1809, 58, 107, "Input"],
+Cell[6951, 218, 1200, 34, 120, "Input"]
 }, Open  ]],
 Cell[CellGroupData[{
-Cell[8179, 258, 155, 3, 54, "Subsection",ExpressionUUID->"094cad59-0bf0-4d46-a544-2ed4cf2b1d21"],
-Cell[8337, 263, 161, 3, 35, "Text",ExpressionUUID->"0af346a7-068a-4264-9a5a-25f626a904ab"],
+Cell[8188, 257, 155, 3, 45, "Subsection"],
+Cell[8346, 262, 161, 3, 31, "Text"],
 Cell[CellGroupData[{
-Cell[8523, 270, 8428, 238, 656, "Input",ExpressionUUID->"bb21abb0-ca45-4646-850f-a5d0fa49e5a5"],
-Cell[16954, 510, 89235, 1581, 330, "Output",ExpressionUUID->"58b759f1-2eec-44ea-91af-d1b4cabe8f71"],
-Cell[106192, 2093, 89411, 1583, 330, "Output",ExpressionUUID->"7c97cefc-efee-4194-8181-bd8a4f752c82"]
+Cell[8532, 269, 8427, 237, 702, "Input"],
+Cell[16962, 508, 88649, 1567, 328, "Output"],
+Cell[105614, 2077, 88826, 1570, 328, "Output"]
 }, Open  ]],
-Cell[195618, 3679, 152, 3, 35, "Text",ExpressionUUID->"ce8b3a97-5d78-49ca-b53d-252deea52a01"],
+Cell[194455, 3650, 152, 3, 31, "Text"],
 Cell[CellGroupData[{
-Cell[195795, 3686, 3493, 83, 224, "Input",ExpressionUUID->"9a49c777-c2ff-4487-b926-73992320c30b"],
-Cell[199291, 3771, 40434, 731, 397, "Output",ExpressionUUID->"aa9cfe62-e3df-4118-aece-a5a395e38a19"]
+Cell[194632, 3657, 3491, 82, 231, "Input"],
+Cell[198126, 3741, 40168, 722, 387, "Output"]
 }, Open  ]]
 }, Open  ]]
 }, Open  ]]

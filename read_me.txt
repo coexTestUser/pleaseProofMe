@@ -15,9 +15,9 @@ experiment_autocorrelation		contains data associated with Figures S2D,E.
 experiment_collisions_processivity      contains data associated with Figures 1D,E, S1.
  data					contains data from single collisions and filament velocities.
  collision_statistics.nb		loads and evaluates collision data for 3% PEG. See reference (34) for data in 0% PEG.
- detect.m				detects all filaments in a tiff movie.
- trackfilament.m			uses results obtained by 'detect.m' to narrow down possible collisions.
- skeletonize_vid2.m			skeletonizes filaments of interest to obtain contour coordinates.
+ detect.m				detects all filaments in a tiff movie. (Matlab)
+ trackfilament.m			uses results obtained by 'detect.m' to narrow down possible collisions. (Matlab)
+ skeletonize_vid2.m			skeletonizes filaments of interest to obtain contour coordinates. (Matlab)
  find_skel_ends.m			auxiliary file for skeletonize_vid2.m.
  sort_points.m				auxiliary file for skeletonize_vid2.m.
 
